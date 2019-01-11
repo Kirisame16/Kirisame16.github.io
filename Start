@@ -3,8 +3,4 @@ $ cd Kirisame16.github.io
 $ echo "Start" > index.html
 
 
-$ git add --all
 
-$ git commit -m "Initial commit"
-
-$ git push -u origin master
